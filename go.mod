@@ -53,7 +53,6 @@ require (
 )
 
 require (
-	github.com/anchore/grype v0.38.0
 	github.com/in-toto/in-toto-golang v0.3.4-0.20211211042327-af1f9fb822bf
 	github.com/secure-systems-lab/go-securesystemslib v0.3.1
 	github.com/sigstore/cosign v1.8.0

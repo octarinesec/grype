@@ -62,7 +62,7 @@ func (pres *Presenter) toSarifReport() (*sarif.Report, error) {
 			Driver: &sarif.ToolComponent{
 				Name:           "Grype",
 				Version:        sp(v),
-				InformationURI: sp("https://github.com/anchore/grype"),
+				InformationURI: sp("https://github.com/octarinesec/grype"),
 				Rules:          pres.sarifRules(),
 			},
 		},
