@@ -5,15 +5,15 @@ import (
 
 	cdx "github.com/CycloneDX/cyclonedx-go"
 
-	"github.com/anchore/grype/grype/match"
-	"github.com/anchore/grype/grype/pkg"
-	"github.com/anchore/grype/grype/presenter/cyclonedx"
-	"github.com/anchore/grype/grype/presenter/cyclonedxvex"
-	"github.com/anchore/grype/grype/presenter/json"
-	"github.com/anchore/grype/grype/presenter/sarif"
-	"github.com/anchore/grype/grype/presenter/table"
-	"github.com/anchore/grype/grype/presenter/template"
-	"github.com/anchore/grype/grype/vulnerability"
+	"github.com/octarinesec/grype/grype/match"
+	"github.com/octarinesec/grype/grype/pkg"
+	"github.com/octarinesec/grype/grype/presenter/cyclonedx"
+	"github.com/octarinesec/grype/grype/presenter/cyclonedxvex"
+	"github.com/octarinesec/grype/grype/presenter/json"
+	"github.com/octarinesec/grype/grype/presenter/sarif"
+	"github.com/octarinesec/grype/grype/presenter/table"
+	"github.com/octarinesec/grype/grype/presenter/template"
+	"github.com/octarinesec/grype/grype/vulnerability"
 )
 
 // Presenter is the main interface other Presenters need to implement

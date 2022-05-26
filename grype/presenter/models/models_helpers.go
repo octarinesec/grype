@@ -5,10 +5,10 @@ import (
 
 	"github.com/google/uuid"
 
-	grypeDb "github.com/anchore/grype/grype/db/v3"
-	"github.com/anchore/grype/grype/match"
-	"github.com/anchore/grype/grype/pkg"
-	"github.com/anchore/grype/grype/vulnerability"
+	grypeDb "github.com/octarinesec/grype/grype/db/v3"
+	"github.com/octarinesec/grype/grype/match"
+	"github.com/octarinesec/grype/grype/pkg"
+	"github.com/octarinesec/grype/grype/vulnerability"
 	"github.com/anchore/stereoscope/pkg/image"
 	"github.com/anchore/syft/syft/linux"
 	syftPkg "github.com/anchore/syft/syft/pkg"

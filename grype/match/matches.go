@@ -3,8 +3,8 @@ package match
 import (
 	"sort"
 
-	"github.com/anchore/grype/grype/pkg"
-	"github.com/anchore/grype/internal/log"
+	"github.com/octarinesec/grype/grype/pkg"
+	"github.com/octarinesec/grype/internal/log"
 )
 
 type Matches struct {

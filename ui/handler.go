@@ -7,7 +7,7 @@ import (
 	"github.com/wagoodman/go-partybus"
 	"github.com/wagoodman/jotframe/pkg/frame"
 
-	grypeEvent "github.com/anchore/grype/grype/event"
+	grypeEvent "github.com/octarinesec/grype/grype/event"
 	syftUI "github.com/anchore/syft/ui"
 )
 
