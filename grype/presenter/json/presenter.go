@@ -4,10 +4,10 @@ import (
 	"encoding/json"
 	"io"
 
-	"github.com/anchore/grype/grype/match"
-	"github.com/anchore/grype/grype/pkg"
-	"github.com/anchore/grype/grype/presenter/models"
-	"github.com/anchore/grype/grype/vulnerability"
+	"github.com/octarinesec/grype/grype/match"
+	"github.com/octarinesec/grype/grype/pkg"
+	"github.com/octarinesec/grype/grype/presenter/models"
+	"github.com/octarinesec/grype/grype/vulnerability"
 )
 
 // Presenter is a generic struct for holding fields needed for reporting

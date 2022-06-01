@@ -8,8 +8,8 @@ import (
 
 	"github.com/go-test/deep"
 
-	v2 "github.com/anchore/grype/grype/db/v2"
-	"github.com/anchore/grype/grype/db/v2/store/model"
+	v2 "github.com/octarinesec/grype/grype/db/v2"
+	"github.com/octarinesec/grype/grype/db/v2/store/model"
 )
 
 func assertIDReader(t *testing.T, reader v2.IDReader, expected v2.ID) {

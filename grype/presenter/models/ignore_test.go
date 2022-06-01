@@ -5,8 +5,8 @@ import (
 
 	"github.com/google/go-cmp/cmp"
 
-	grypeDb "github.com/anchore/grype/grype/db/v3"
-	"github.com/anchore/grype/grype/match"
+	grypeDb "github.com/octarinesec/grype/grype/db/v3"
+	"github.com/octarinesec/grype/grype/match"
 )
 
 func TestNewIgnoreRule(t *testing.T) {

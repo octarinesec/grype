@@ -1,6 +1,6 @@
 package log
 
-import "github.com/anchore/grype/grype/logger"
+import "github.com/octarinesec/grype/grype/logger"
 
 var Log logger.Logger = &nopLogger{}
 

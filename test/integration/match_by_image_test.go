@@ -5,12 +5,12 @@ import (
 
 	"github.com/sergi/go-diff/diffmatchpatch"
 
-	"github.com/anchore/grype/grype"
-	"github.com/anchore/grype/grype/db"
-	"github.com/anchore/grype/grype/match"
-	"github.com/anchore/grype/grype/matcher"
-	"github.com/anchore/grype/grype/pkg"
-	"github.com/anchore/grype/grype/vulnerability"
+	"github.com/octarinesec/grype/grype"
+	"github.com/octarinesec/grype/grype/db"
+	"github.com/octarinesec/grype/grype/match"
+	"github.com/octarinesec/grype/grype/matcher"
+	"github.com/octarinesec/grype/grype/pkg"
+	"github.com/octarinesec/grype/grype/vulnerability"
 	"github.com/octarinesec/grype/internal"
 	"github.com/anchore/stereoscope/pkg/imagetest"
 	"github.com/anchore/syft/syft"

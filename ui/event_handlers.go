@@ -14,7 +14,7 @@ import (
 	"github.com/wagoodman/go-progress/format"
 	"github.com/wagoodman/jotframe/pkg/frame"
 
-	grypeEventParsers "github.com/anchore/grype/grype/event/parsers"
+	grypeEventParsers "github.com/octarinesec/grype/grype/event/parsers"
 	"github.com/octarinesec/grype/internal/ui/components"
 	syftUI "github.com/anchore/syft/ui"
 )

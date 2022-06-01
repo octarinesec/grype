@@ -5,7 +5,7 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/anchore/grype/grype/db"
+	"github.com/octarinesec/grype/grype/db"
 )
 
 var dbUpdateCmd = &cobra.Command{

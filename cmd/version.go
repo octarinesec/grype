@@ -7,7 +7,7 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/anchore/grype/grype/vulnerability"
+	"github.com/octarinesec/grype/grype/vulnerability"
 	"github.com/octarinesec/grype/internal"
 	"github.com/octarinesec/grype/internal/version"
 )

@@ -20,7 +20,7 @@ import (
 	"github.com/sigstore/sigstore/pkg/signature/dsse"
 	"github.com/wagoodman/go-partybus"
 
-	"github.com/anchore/grype/grype/event"
+	"github.com/octarinesec/grype/grype/event"
 	"github.com/octarinesec/grype/internal"
 	"github.com/octarinesec/grype/internal/bus"
 	"github.com/octarinesec/grype/internal/log"

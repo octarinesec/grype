@@ -9,10 +9,10 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/anchore/grype/grype"
-	"github.com/anchore/grype/grype/db"
-	"github.com/anchore/grype/grype/match"
-	"github.com/anchore/grype/grype/search"
+	"github.com/octarinesec/grype/grype"
+	"github.com/octarinesec/grype/grype/db"
+	"github.com/octarinesec/grype/grype/match"
+	"github.com/octarinesec/grype/grype/search"
 	"github.com/anchore/syft/syft/source"
 )
 

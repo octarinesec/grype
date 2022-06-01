@@ -8,9 +8,9 @@ import (
 	"github.com/go-test/deep"
 	"gorm.io/gorm"
 
-	"github.com/anchore/grype/grype/db/internal/gormadapter"
-	v2 "github.com/anchore/grype/grype/db/v2"
-	"github.com/anchore/grype/grype/db/v2/store/model"
+	"github.com/octarinesec/grype/grype/db/internal/gormadapter"
+	v2 "github.com/octarinesec/grype/grype/db/v2"
+	"github.com/octarinesec/grype/grype/db/v2/store/model"
 	"github.com/octarinesec/grype/internal"
 )
 

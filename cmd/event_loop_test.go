@@ -11,7 +11,7 @@ import (
 	"github.com/stretchr/testify/mock"
 	"github.com/wagoodman/go-partybus"
 
-	"github.com/anchore/grype/grype/event"
+	"github.com/octarinesec/grype/grype/event"
 	"github.com/octarinesec/grype/internal/ui"
 )
 

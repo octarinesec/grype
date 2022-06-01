@@ -4,9 +4,9 @@ import (
 	"github.com/CycloneDX/cyclonedx-go"
 	"github.com/google/uuid"
 
-	"github.com/anchore/grype/grype/match"
-	"github.com/anchore/grype/grype/pkg"
-	"github.com/anchore/grype/grype/vulnerability"
+	"github.com/octarinesec/grype/grype/match"
+	"github.com/octarinesec/grype/grype/pkg"
+	"github.com/octarinesec/grype/grype/vulnerability"
 	"github.com/octarinesec/grype/internal"
 	"github.com/octarinesec/grype/internal/version"
 	"github.com/anchore/packageurl-go"

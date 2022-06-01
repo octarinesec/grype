@@ -5,7 +5,7 @@ import (
 
 	"github.com/wagoodman/go-partybus"
 
-	grypeEvent "github.com/anchore/grype/grype/event"
+	grypeEvent "github.com/octarinesec/grype/grype/event"
 	"github.com/octarinesec/grype/internal/log"
 )
 

@@ -7,10 +7,10 @@ import (
 	"github.com/google/uuid"
 	"github.com/stretchr/testify/assert"
 
-	"github.com/anchore/grype/grype/db"
-	grypeDB "github.com/anchore/grype/grype/db/v3"
-	"github.com/anchore/grype/grype/distro"
-	"github.com/anchore/grype/grype/pkg"
+	"github.com/octarinesec/grype/grype/db"
+	grypeDB "github.com/octarinesec/grype/grype/db/v3"
+	"github.com/octarinesec/grype/grype/distro"
+	"github.com/octarinesec/grype/grype/pkg"
 	syftPkg "github.com/anchore/syft/syft/pkg"
 )
 

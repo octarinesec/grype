@@ -6,7 +6,7 @@ import (
 	"github.com/adrg/xdg"
 	"github.com/spf13/viper"
 
-	"github.com/anchore/grype/grype/db"
+	"github.com/octarinesec/grype/grype/db"
 	"github.com/octarinesec/grype/internal"
 )
 

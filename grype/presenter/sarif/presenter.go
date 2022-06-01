@@ -8,10 +8,10 @@ import (
 
 	"github.com/owenrumney/go-sarif/sarif"
 
-	v3 "github.com/anchore/grype/grype/db/v3"
-	"github.com/anchore/grype/grype/match"
-	"github.com/anchore/grype/grype/pkg"
-	"github.com/anchore/grype/grype/vulnerability"
+	v3 "github.com/octarinesec/grype/grype/db/v3"
+	"github.com/octarinesec/grype/grype/match"
+	"github.com/octarinesec/grype/grype/pkg"
+	"github.com/octarinesec/grype/grype/vulnerability"
 	"github.com/octarinesec/grype/internal/version"
 	"github.com/anchore/syft/syft/source"
 )

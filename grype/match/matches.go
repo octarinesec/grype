@@ -3,7 +3,7 @@ package match
 import (
 	"sort"
 
-	"github.com/anchore/grype/grype/pkg"
+	"github.com/octarinesec/grype/grype/pkg"
 	"github.com/octarinesec/grype/internal/log"
 )
 

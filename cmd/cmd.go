@@ -11,7 +11,7 @@ import (
 	"github.com/spf13/viper"
 	"github.com/wagoodman/go-partybus"
 
-	"github.com/anchore/grype/grype"
+	"github.com/octarinesec/grype/grype"
 	"github.com/octarinesec/grype/internal/config"
 	"github.com/octarinesec/grype/internal/log"
 	"github.com/octarinesec/grype/internal/logger"

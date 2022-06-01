@@ -4,8 +4,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/anchore/grype/grype/version"
-	"github.com/anchore/grype/grype/vulnerability"
+	"github.com/octarinesec/grype/grype/version"
+	"github.com/octarinesec/grype/grype/vulnerability"
 	"github.com/octarinesec/grype/internal/log"
 )
 
