@@ -15,8 +15,8 @@ import (
 	"github.com/wagoodman/jotframe/pkg/frame"
 
 	grypeEvent "github.com/anchore/grype/grype/event"
-	"github.com/anchore/grype/internal/log"
-	"github.com/anchore/grype/internal/logger"
+	"github.com/octarinesec/grype/internal/log"
+	"github.com/octarinesec/grype/internal/logger"
 	"github.com/anchore/grype/ui"
 )
 

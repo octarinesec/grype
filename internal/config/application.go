@@ -15,7 +15,7 @@ import (
 
 	"github.com/anchore/grype/grype/match"
 	"github.com/anchore/grype/grype/vulnerability"
-	"github.com/anchore/grype/internal"
+	"github.com/octarinesec/grype/internal"
 )
 
 var ErrApplicationConfigNotFound = fmt.Errorf("application config not found")

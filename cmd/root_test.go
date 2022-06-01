@@ -11,7 +11,7 @@ import (
 	"github.com/anchore/grype/grype/match"
 	"github.com/anchore/grype/grype/pkg"
 	"github.com/anchore/grype/grype/vulnerability"
-	"github.com/anchore/grype/internal/config"
+	"github.com/octarinesec/grype/internal/config"
 	syftPkg "github.com/anchore/syft/syft/pkg"
 )
 

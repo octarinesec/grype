@@ -19,8 +19,8 @@ import (
 	"github.com/anchore/grype/grype/matcher/stock"
 	"github.com/anchore/grype/grype/pkg"
 	"github.com/anchore/grype/grype/vulnerability"
-	"github.com/anchore/grype/internal/bus"
-	"github.com/anchore/grype/internal/log"
+	"github.com/octarinesec/grype/internal/bus"
+	"github.com/octarinesec/grype/internal/log"
 	"github.com/anchore/syft/syft/linux"
 	syftPkg "github.com/anchore/syft/syft/pkg"
 )

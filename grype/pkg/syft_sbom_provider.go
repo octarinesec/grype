@@ -21,9 +21,9 @@ import (
 	"github.com/wagoodman/go-partybus"
 
 	"github.com/anchore/grype/grype/event"
-	"github.com/anchore/grype/internal"
-	"github.com/anchore/grype/internal/bus"
-	"github.com/anchore/grype/internal/log"
+	"github.com/octarinesec/grype/internal"
+	"github.com/octarinesec/grype/internal/bus"
+	"github.com/octarinesec/grype/internal/log"
 	"github.com/anchore/syft/syft"
 	"github.com/anchore/syft/syft/sbom"
 )

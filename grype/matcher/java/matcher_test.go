@@ -9,7 +9,7 @@ import (
 
 	"github.com/anchore/grype/grype/match"
 	"github.com/anchore/grype/grype/pkg"
-	"github.com/anchore/grype/internal"
+	"github.com/octarinesec/grype/internal"
 	syftPkg "github.com/anchore/syft/syft/pkg"
 )
 

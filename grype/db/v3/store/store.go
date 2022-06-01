@@ -11,7 +11,7 @@ import (
 	"github.com/anchore/grype/grype/db/internal/gormadapter"
 	v3 "github.com/anchore/grype/grype/db/v3"
 	"github.com/anchore/grype/grype/db/v3/store/model"
-	"github.com/anchore/grype/internal"
+	"github.com/octarinesec/grype/internal"
 )
 
 // store holds an instance of the database connection

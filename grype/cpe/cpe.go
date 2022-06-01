@@ -1,7 +1,7 @@
 package cpe
 
 import (
-	"github.com/anchore/grype/internal/log"
+	"github.com/octarinesec/grype/internal/log"
 	"github.com/anchore/syft/syft/pkg"
 )
 

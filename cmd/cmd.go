@@ -12,10 +12,10 @@ import (
 	"github.com/wagoodman/go-partybus"
 
 	"github.com/anchore/grype/grype"
-	"github.com/anchore/grype/internal/config"
-	"github.com/anchore/grype/internal/log"
-	"github.com/anchore/grype/internal/logger"
-	"github.com/anchore/grype/internal/version"
+	"github.com/octarinesec/grype/internal/config"
+	"github.com/octarinesec/grype/internal/log"
+	"github.com/octarinesec/grype/internal/logger"
+	"github.com/octarinesec/grype/internal/version"
 	"github.com/anchore/stereoscope"
 	"github.com/anchore/syft/syft"
 )

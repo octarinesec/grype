@@ -8,8 +8,8 @@ import (
 	"github.com/spf13/cobra"
 
 	"github.com/anchore/grype/grype/vulnerability"
-	"github.com/anchore/grype/internal"
-	"github.com/anchore/grype/internal/version"
+	"github.com/octarinesec/grype/internal"
+	"github.com/octarinesec/grype/internal/version"
 )
 
 var versionOutputFormat string

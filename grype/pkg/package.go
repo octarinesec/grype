@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"regexp"
 
-	"github.com/anchore/grype/internal"
-	"github.com/anchore/grype/internal/log"
+	"github.com/octarinesec/grype/internal"
+	"github.com/octarinesec/grype/internal/log"
 	"github.com/anchore/syft/syft/pkg"
 	"github.com/anchore/syft/syft/pkg/cataloger/common/cpe"
 	"github.com/anchore/syft/syft/source"

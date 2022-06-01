@@ -14,7 +14,7 @@ import (
 	"github.com/wagoodman/jotframe/pkg/frame"
 
 	grypeEventParsers "github.com/anchore/grype/grype/event/parsers"
-	"github.com/anchore/grype/internal"
+	"github.com/octarinesec/grype/internal"
 )
 
 func handleAppUpdateAvailable(_ context.Context, fr *frame.Frame, event partybus.Event, _ *sync.WaitGroup) error {

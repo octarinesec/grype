@@ -12,7 +12,7 @@ import (
 	"github.com/wagoodman/go-partybus"
 
 	"github.com/anchore/grype/grype/event"
-	"github.com/anchore/grype/internal/ui"
+	"github.com/octarinesec/grype/internal/ui"
 )
 
 var _ ui.UI = (*uiMock)(nil)
