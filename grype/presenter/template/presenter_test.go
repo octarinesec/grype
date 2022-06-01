@@ -10,7 +10,7 @@ import (
 	"github.com/stretchr/testify/assert"
 
 	"github.com/anchore/go-testutils"
-	"github.com/anchore/grype/grype/presenter/models"
+	"github.com/octarinesec/grype/grype/presenter/models"
 )
 
 var update = flag.Bool("update", false, "update the *.golden files for template presenters")

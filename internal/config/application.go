@@ -13,9 +13,9 @@ import (
 	"github.com/spf13/viper"
 	"gopkg.in/yaml.v2"
 
-	"github.com/anchore/grype/grype/match"
-	"github.com/anchore/grype/grype/vulnerability"
-	"github.com/anchore/grype/internal"
+	"github.com/octarinesec/grype/grype/match"
+	"github.com/octarinesec/grype/grype/vulnerability"
+	"github.com/octarinesec/grype/internal"
 )
 
 var ErrApplicationConfigNotFound = fmt.Errorf("application config not found")

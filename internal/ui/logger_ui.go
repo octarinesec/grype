@@ -5,8 +5,8 @@ import (
 
 	"github.com/wagoodman/go-partybus"
 
-	grypeEvent "github.com/anchore/grype/grype/event"
-	"github.com/anchore/grype/internal/log"
+	grypeEvent "github.com/octarinesec/grype/grype/event"
+	"github.com/octarinesec/grype/internal/log"
 )
 
 type loggerUI struct {

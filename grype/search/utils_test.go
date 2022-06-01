@@ -6,8 +6,8 @@ import (
 	"github.com/go-test/deep"
 	"github.com/stretchr/testify/assert"
 
-	"github.com/anchore/grype/grype/match"
-	"github.com/anchore/grype/grype/vulnerability"
+	"github.com/octarinesec/grype/grype/match"
+	"github.com/octarinesec/grype/grype/vulnerability"
 )
 
 func assertMatchesUsingIDsForVulnerabilities(t testing.TB, expected, actual []match.Match) {

@@ -21,8 +21,8 @@ import (
 	"github.com/stretchr/testify/require"
 	"github.com/wagoodman/go-progress"
 
-	"github.com/anchore/grype/internal"
-	"github.com/anchore/grype/internal/file"
+	"github.com/octarinesec/grype/internal"
+	"github.com/octarinesec/grype/internal/file"
 )
 
 type testGetter struct {

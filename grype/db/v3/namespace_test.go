@@ -8,8 +8,8 @@ import (
 	"github.com/scylladb/go-set/strset"
 	"github.com/stretchr/testify/assert"
 
-	"github.com/anchore/grype/grype/distro"
-	"github.com/anchore/grype/grype/pkg"
+	"github.com/octarinesec/grype/grype/distro"
+	"github.com/octarinesec/grype/grype/pkg"
 	syftPkg "github.com/anchore/syft/syft/pkg"
 )
 

@@ -11,7 +11,7 @@ import (
 
 	"github.com/scylladb/go-set/strset"
 
-	"github.com/anchore/grype/grype/match"
+	"github.com/octarinesec/grype/grype/match"
 	"github.com/anchore/syft/syft"
 	"github.com/anchore/syft/syft/pkg/cataloger"
 	"github.com/anchore/syft/syft/sbom"

@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/anchore/grype/grype/distro"
-	"github.com/anchore/grype/grype/pkg"
-	"github.com/anchore/grype/internal"
-	"github.com/anchore/grype/internal/log"
+	"github.com/octarinesec/grype/grype/distro"
+	"github.com/octarinesec/grype/grype/pkg"
+	"github.com/octarinesec/grype/internal"
+	"github.com/octarinesec/grype/internal/log"
 	"github.com/anchore/packageurl-go"
 	syftPkg "github.com/anchore/syft/syft/pkg"
 )

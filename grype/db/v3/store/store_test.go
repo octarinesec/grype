@@ -11,8 +11,8 @@ import (
 	"github.com/go-test/deep"
 	"github.com/stretchr/testify/assert"
 
-	v3 "github.com/anchore/grype/grype/db/v3"
-	"github.com/anchore/grype/grype/db/v3/store/model"
+	v3 "github.com/octarinesec/grype/grype/db/v3"
+	"github.com/octarinesec/grype/grype/db/v3/store/model"
 )
 
 func assertIDReader(t *testing.T, reader v3.IDReader, expected v3.ID) {

@@ -6,7 +6,7 @@ import (
 
 	"github.com/wagoodman/go-partybus"
 
-	grypeEventParsers "github.com/anchore/grype/grype/event/parsers"
+	grypeEventParsers "github.com/octarinesec/grype/grype/event/parsers"
 )
 
 func handleVulnerabilityScanningFinished(event partybus.Event, reportOutput io.Writer) error {

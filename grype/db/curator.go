@@ -15,13 +15,13 @@ import (
 	"github.com/wagoodman/go-partybus"
 	"github.com/wagoodman/go-progress"
 
-	grypeDB "github.com/anchore/grype/grype/db/v3"
-	"github.com/anchore/grype/grype/db/v3/store"
-	"github.com/anchore/grype/grype/event"
-	"github.com/anchore/grype/grype/vulnerability"
-	"github.com/anchore/grype/internal/bus"
-	"github.com/anchore/grype/internal/file"
-	"github.com/anchore/grype/internal/log"
+	grypeDB "github.com/octarinesec/grype/grype/db/v3"
+	"github.com/octarinesec/grype/grype/db/v3/store"
+	"github.com/octarinesec/grype/grype/event"
+	"github.com/octarinesec/grype/grype/vulnerability"
+	"github.com/octarinesec/grype/internal/bus"
+	"github.com/octarinesec/grype/internal/file"
+	"github.com/octarinesec/grype/internal/log"
 )
 
 const (
