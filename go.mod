@@ -1,4 +1,4 @@
-module github.com/anchore/grype
+module github.com/octarinesec/grype
 
 go 1.18
 
